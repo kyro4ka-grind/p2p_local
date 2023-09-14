@@ -1,0 +1,70 @@
+2023-06-02 06:37:25,487 INFO Ip: 192.168.1.130
+2023-06-02 06:37:28,560 INFO Registration: start sending
+2023-06-02 06:37:28,560 INFO Listening reg answ: start listening
+2023-06-02 06:37:34,602 INFO Listening reg answ: end listening
+2023-06-02 06:37:34,762 INFO Registration: end sending
+2023-06-02 06:37:34,762 INFO Registration: success
+2023-06-02 06:37:34,762 INFO Mcst listening: start listening
+2023-06-02 06:37:34,762 INFO Mcst proc: start processing
+2023-06-02 06:37:34,763 INFO Mcst sending: start sending
+2023-06-02 06:37:34,763 INFO Accepting: start accepting
+2023-06-02 06:37:34,763 INFO Mcst listening: message received
+2023-06-02 06:37:34,764 INFO Tcp proc: start tcp processing
+2023-06-02 06:37:34,910 INFO Mcst listening: message received
+2023-06-02 06:37:35,413 INFO Mcst listening: message received
+2023-06-02 06:37:35,776 INFO Mcst proc: came action
+2023-06-02 06:37:35,779 INFO Mcst proc: no flags
+2023-06-02 06:37:35,779 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:35,781 INFO Mcst proc: came action
+2023-06-02 06:37:35,782 INFO Mcst proc: no flags
+2023-06-02 06:37:35,782 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:35,782 INFO Mcst proc: came action
+2023-06-02 06:37:35,782 INFO Mcst proc: no flags
+2023-06-02 06:37:35,782 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:35,914 INFO Mcst listening: message received
+2023-06-02 06:37:36,412 INFO Mcst listening: message received
+2023-06-02 06:37:36,796 INFO Mcst proc: came action
+2023-06-02 06:37:36,796 INFO Mcst proc: no flags
+2023-06-02 06:37:36,796 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:36,796 INFO Mcst proc: came action
+2023-06-02 06:37:36,796 INFO Mcst proc: no flags
+2023-06-02 06:37:36,797 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:36,913 INFO Mcst listening: message received
+2023-06-02 06:37:37,414 INFO Mcst listening: message received
+2023-06-02 06:37:37,798 INFO Mcst proc: came action
+2023-06-02 06:37:37,798 INFO Mcst proc: no flags
+2023-06-02 06:37:37,798 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:37,798 INFO Mcst proc: came action
+2023-06-02 06:37:37,798 INFO Mcst proc: no flags
+2023-06-02 06:37:37,798 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:37,916 INFO Mcst listening: message received
+2023-06-02 06:37:38,417 INFO Mcst listening: message received
+2023-06-02 06:37:38,811 INFO Mcst proc: came action
+2023-06-02 06:37:38,811 INFO Mcst proc: no flags
+2023-06-02 06:37:38,811 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:38,811 INFO Mcst proc: came action
+2023-06-02 06:37:38,811 INFO Mcst proc: no flags
+2023-06-02 06:37:38,811 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:38,917 INFO Mcst listening: message received
+2023-06-02 06:37:39,418 INFO Mcst listening: message received
+2023-06-02 06:37:39,827 INFO Mcst proc: came action
+2023-06-02 06:37:39,827 INFO Mcst proc: no flags
+2023-06-02 06:37:39,827 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:39,827 INFO Mcst proc: came action
+2023-06-02 06:37:39,827 INFO Mcst proc: no flags
+2023-06-02 06:37:39,828 INFO Mcst proc: regBuff updated
+2023-06-02 06:37:40,521 INFO Mcst listening: message received
+2023-06-02 06:37:40,828 INFO Mcst proc: came action
+2023-06-02 06:37:40,828 INFO Mcst proc: client added
+2023-06-02 06:37:45,524 INFO Mcst listening: message received
+2023-06-02 06:37:45,884 INFO Mcst proc: came action
+2023-06-02 06:37:50,525 INFO Mcst listening: message received
+2023-06-02 06:37:50,926 INFO Mcst proc: came action
+2023-06-02 06:37:55,526 INFO Mcst listening: message received
+2023-06-02 06:37:55,957 INFO Mcst proc: came action
+2023-06-02 06:38:00,525 INFO Mcst listening: message received
+2023-06-02 06:38:01,003 INFO Mcst proc: came action
+2023-06-02 06:38:05,530 INFO Mcst listening: message received
+2023-06-02 06:38:06,030 INFO Mcst proc: came action
+2023-06-02 06:38:10,530 INFO Mcst listening: message received
+2023-06-02 06:38:11,076 INFO Mcst proc: came action
